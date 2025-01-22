@@ -1,6 +1,6 @@
 
 - 🔭 Estudante de Engenharia de Software
-- 🌱 20 anos
+- 🌱 21 anos
 - 👯 Ourinhos - SP
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
